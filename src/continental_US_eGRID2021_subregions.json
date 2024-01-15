@@ -9217,13 +9217,13 @@
         },
         {
             "type": "Feature",
+            "properties": {
+                "Shape__Are": 113088120.871,
+                "Shape__Len": 71585.8862669,
+                "SUBRGN": "NYUP"
+            },
             "geometry": {
                 "type": "Polygon",
-                "properties": {
-                    "Shape__Are": 113088120.871,
-                    "Shape__Len": 71585.8862669,
-                    "SUBRGN": "NYUP"
-                },
                 "coordinates": [
                     [
                         [
@@ -9512,13 +9512,13 @@
         },
         {
             "type": "Feature",
+            "properties": {
+                "Shape__Are": 100144916.754,
+                "Shape__Len": 49374.2999666,
+                "SUBRGN": "RFCM"
+            },
             "geometry": {
                 "type": "MultiPolygon",
-                "properties": {
-                    "Shape__Are": 100144916.754,
-                    "Shape__Len": 49374.2999666,
-                    "SUBRGN": "RFCM"
-                },
                 "coordinates": [
                     [
                         [
