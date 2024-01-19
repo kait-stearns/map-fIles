@@ -4992,15 +4992,6 @@
         },
         {
             "type": "Feature",
-            "geometry": null,
-            "properties": {
-                "Shape__Are": 57688579.375,
-                "Shape__Len": 47438.3221136,
-                "SUBRGN": "HIOA"
-            }
-        },
-        {
-            "type": "Feature",
             "geometry": {
                 "type": "Polygon",
                 "coordinates": [
